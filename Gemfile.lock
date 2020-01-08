@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.1.5)
+    minitest (5.13.0)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  concurrent-ruby
+  minitest
+
+RUBY VERSION
+   ruby 2.3.3p0 (jruby 9.1.17.0)
+
+BUNDLED WITH
+   2.1.4
